@@ -1,4 +1,6 @@
 # Season of AI
 <br>
-## Week 2 - MNIST
-## Week 4 - IMDB LSTM
+<li>
+<ul> Week 2 - MNIST </ul>
+<ul> Week 4 - IMDB LSTM </ul>
+</li>
